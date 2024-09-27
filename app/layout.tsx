@@ -1,3 +1,5 @@
+// 전체적인 layout 관련
+
 import "../styles/global.css";
 import { Metadata } from "next";
 import Navigation from "../Components/navigation";

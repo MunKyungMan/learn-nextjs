@@ -1,3 +1,5 @@
+// 메인 페이지
+
 import Movie from "../../Components/movie";
 import styles from "../../styles/home.module.css";
 

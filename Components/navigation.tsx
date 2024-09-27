@@ -1,3 +1,5 @@
+// Home, About Us 상단
+
 "use client";
 
 import Link from "next/link";

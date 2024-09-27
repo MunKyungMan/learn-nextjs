@@ -1,3 +1,5 @@
+// 오류 떴을 때
+
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

@@ -1,3 +1,5 @@
+// 영화 상세 페이지 이동 관련(메인페이지 포스터, 제목)
+
 "use client";
 
 import Link from "next/link";

@@ -1,3 +1,5 @@
+// About Us 페이지
+
 export const metadata = {
   title: "About us",
 };
