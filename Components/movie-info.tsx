@@ -1,6 +1,6 @@
 // 영화 상세페이지 글 관련
 
-import { API_URL } from "../app/(home)/page";
+import { API_URL } from "../app/constants";
 import potato from "../styles/movie-info.module.css";
 
 export async function getMovie(id: string) {

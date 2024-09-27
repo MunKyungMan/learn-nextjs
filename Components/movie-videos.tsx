@@ -1,6 +1,6 @@
 // 영화 상세페이지 비디오 관련
 
-import { API_URL } from "../app/(home)/page";
+import { API_URL } from "../app/constants";
 import styles from "../styles/movie-videos.module.css";
 
 async function getVideos(id: string) {
